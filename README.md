@@ -58,5 +58,3 @@ This is a simple PHP-based web application for managing staff records. It allows
 - I used a temporary script (called `add_admin.php`) to add the admin because I was getting an error while creating an admin.
 - Please remove the script after use for security.
 
-## License
-This project is open-source and available under the MIT License.
